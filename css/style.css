@@ -193,6 +193,6 @@ i {color: whitesmoke;}
 @media only screen and (max-width: 600px) {
 h1 {font-size: 120px !important;}
 ul {font-size: 40px !important;
-    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Gloria Hallelujah', cursive !important;
     font-weight: bold;
      text-transform: uppercase;}}
