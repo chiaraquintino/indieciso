@@ -159,6 +159,29 @@ i {color: whitesmoke;}
 
 .autrice {font-size: 1.4em !important;}
 
+.doc{color: whitesmoke;}
+
+/*Documentazione*/
+h1.doc{font-size: 10vh !important;}
+
+h2.doc{font-size: 5vh !important;
+       font-family:'Quicksand', sans-serif !important;
+       font-weight: 300;
+       text-align: left;}
+
+p.doc{font-family:'Poppins', sans-serif;
+      font-weight: 400 !important;
+      font-size: 1.3em;
+      color: black;
+      text-align: left;} 
+
+#albero{padding-left: 65vh;} 
+
+#homew, #cantantiw, #artew {width: 30%;
+                            padding-left: 4vh;} 
+
+                                      
+
 
 [class*="col-"] { width: 100%;}
 
