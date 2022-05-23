@@ -57,7 +57,8 @@ a.nav-link, a.nav-link.active {color: whitesmoke;
 .card-img-top{width: 85% !important;
               padding-left:15%;}
 
-.card-img-top2{ padding-left:0px;}                
+.card-img-top2{ padding-left:0px;
+                width: 70vh !important;}                
 
 .afterhours{text-align: center;}
 
@@ -219,4 +220,5 @@ ul {font-size: 40px !important;
     font-family:'Poppins', sans-serif;
     font-weight: 400 !important;
     font-weight: bold;
-     text-transform: uppercase;}}
+     text-transform: uppercase;}
+.card-img-top2{width: 70vh !important}}
