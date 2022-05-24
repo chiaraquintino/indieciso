@@ -178,11 +178,11 @@ p.doc{font-family:'Poppins', sans-serif;
 
 #albero{padding-left: 65vh;} 
 
-#homew, #cantantiw, #artew {width: 30%;
-                            padding-left: 4vh;} 
+#homew, #cantantiw, #artew, #analytics {width: 30%;
+                                        padding-left: 4vh;}                                                        
 
-                                      
-
+#stories, #post {width: 20%;
+                 padding-left: 4vh;}
 
 [class*="col-"] { width: 100%;}
 
